@@ -6,6 +6,6 @@
 class java6 {
   package { 'Java6':
     provider => 'pkgdmg',
-    source   => 'http://support.apple.com/downloads/DL1572/en_US/JavaForOSX2014-001.dmg',
+    source   => 'https://support.apple.com/downloads/DL1572/en_US/javaforosx.dmg',
   }
 }
